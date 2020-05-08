@@ -5,7 +5,7 @@
 
 **Cufflinks** is another library that connects the Pandas data frame with Plotly enabling users to create visualizations directly from Pandas. The library binds the power of Plotly with the flexibility of Pandas for easy plotting.
 
-## Installation
+## Installation :
 
 In order for this all to work, you'll need to install plotly and cufflinks to call plots directly off of a pandas dataframe. These libraries are not currently available through **conda** but are available through **pip**. Install the libraries at your command line/terminal using:
 
@@ -15,7 +15,7 @@ In order for this all to work, you'll need to install plotly and cufflinks to ca
 
 ** NOTE: Make sure you only have one installation of Python on your computer when you do this, otherwise the installation may not work. **
 
-## Importing necessary libraries
+## Importing necessary libraries :
 
 For iplots, you might want to stick to using Jupyter Notebook as it has great support for it.
 
@@ -40,5 +40,12 @@ For iplots, you might want to stick to using Jupyter Notebook as it has great su
 **To display the plots**
 
     %matplotlib inline
+    
+## License (for datasets) :
+
+**2014_World_GDP** and **2014_World_Power_Consumption**- 
+https://datacatalog.worldbank.org/public-licenses#cc-by
+
+
 
 ## Refer to the notebook 'Chloropleth Maps' before solving the exercise!
